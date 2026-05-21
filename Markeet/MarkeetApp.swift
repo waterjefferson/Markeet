@@ -13,5 +13,5 @@ struct MarkeetApp: App {
         WindowGroup {
             ContentView()
         }
-    }
+    } n
 }
